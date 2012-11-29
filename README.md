@@ -23,7 +23,7 @@ HOW TO USE:
 2. Click invite friends
 3. You should now see a new set of options below the friend search bar.  Your friends will be numbered.
 4. You can select a range from 1 to all or just skip that and choose Select All
-5  After a few seconds, all of your friends will be selected for invitation
+5. After a few seconds, all of your friends will be selected for invitation
 6. Hit save 
 7. You may need to solve a CAPTCHA.
 8. Done

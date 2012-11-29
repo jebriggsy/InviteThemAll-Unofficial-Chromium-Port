@@ -1,0 +1,38 @@
+//============================================
+//
+//	InviteThemAll Unofficial Chromium Port
+//	@file manifest.json
+//	@description Master file for Chromium extensions
+//	@author Jake <jebriggsy@gmail.com>
+//	@copyright Just give me and original JS author credit
+//
+//==============================================
+
+
+{
+	// As of 2012-11-28 this is the most recent
+	"manifest_version": 2,
+	
+	// This is the title of the program in Chrome's extension manager
+	"name": "InviteThemAll Unofficial Chromium Port",
+	
+	// This is the description of the program in Chrome's extension manager
+	"description": "Select all or a range of Facebook friends to invite to an event",
+	
+	// This is the version number in Chrome's extension manager
+	"version": "0.1",
+   
+	// This is the command used to activate the script upon
+	// the loading of a specific $match
+	"content_scripts" : [
+	{
+		"matches" : [
+			"http://*.facebook.com/events/*",
+			"https://*.facebook.com/events/*"
+  		],
+  		"js" : ["content_script.js"],
+  		"run_at" : "document_idle",
+  		"all_frames" : false
+    }
+  ]
+}

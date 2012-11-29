@@ -32,6 +32,7 @@ If you encounter an error, try first to lower the amount of friends
 you are inviting.  You may be hitting Facebook's anti-spam protection
 if you have a huge friend's list! 
 
+Sorry for the somewhat involved installation, I am currently working on getting this on the app store.
 
 
 IMPORTANT!!!

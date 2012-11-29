@@ -4,6 +4,7 @@ InviteThemAll-Unofficial-Chromium-Port
 This is an unofficial port of the GreaseMonkey userscript, InviteThemAll, to the Chromium extension format.
 
 To install:
+
 1. Go to the "Tags" portion of this website and download v0.1.
 1a. Or go to the "Downloads" portion and download as a .zip
 2. Create a folder somewhere and name it InviteThemAll or something else you'll remember
@@ -17,7 +18,7 @@ To install:
 10. Profit!!
 
 
-* How to use
+HOW TO USE
 1. Go to the event page
 2. Click invite friends
 3. You should now see a new set of options below the friend search bar.  Your friends will be numbered.

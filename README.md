@@ -5,9 +5,9 @@ This is an unofficial port of the GreaseMonkey userscript, InviteThemAll, to the
 
 HOW TO INSTALL:
 
-1. Go to the "Tags" portion of this website and download v0.1. ||  Or go to the "Downloads" portion and download as a .zip
+1. Go to the "Downloads" portion of this site and download as a .zip
 2. Create a folder somewhere and name it InviteThemAll or something else you'll remember
-3. Extract/download the two files to that folder
+3. Extract the two files to that folder
 4. Open Chrome and go to settings
 5. Go to the Extensions tab
 6. Enable/Check Developer mode and use the Extensions tab in Chrome's settings

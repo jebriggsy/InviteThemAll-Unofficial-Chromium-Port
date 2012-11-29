@@ -17,7 +17,7 @@ HOW TO INSTALL:
 10. Profit!!
 
 
-HOW TO USE:
+HOW TO USE*:
 
 1. Go to the event page
 2. Click invite friends
